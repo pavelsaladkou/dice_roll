@@ -1,4 +1,4 @@
-# dice_roll
+# Two dice roll simulation
 
 ### OBJECTIVE
 
